@@ -1,0 +1,2 @@
+explainer,single_alert_latency_ms,batch_avg_latency_ms,consistency_cv,top_k_stability_pct,explanation_coverage_pct,n_features_explained,top_feature_global,note
+TreeExplainer (TreeSHAP),5.71,4.72,0.0,100.0,100.0,12,unique_logon_types,TreeExplainer successful on 12-feature user-day model. KernelExplainer was used in investigative phase only (single-feature event-level model had TreeExplainer library bug).
