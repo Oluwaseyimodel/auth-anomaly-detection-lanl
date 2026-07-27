@@ -1,0 +1,2 @@
+system,precision,recall,f1,fpr,alerts,tp,fp,tn,fn
+SIEM,0.4599,0.8922,0.6069,0.0123,324,149,175,14074,18
