@@ -1,0 +1,10 @@
+Metric,Rules,IF,IF+SHAP,IF+SHAP+MITRE
+Precision,0.6493,0.7178423236514523,0.7178423236514523,0.7178423236514523
+Recall,0.7579,0.6771037181996086,0.6771037181996086,0.6771037181996086
+F1,0.6994,0.6968781470292045,0.6968781470292045,0.6968781470292045
+False Positive Rate,0.0721,0.0468925092664425,0.0468925092664425,0.0468925092664425
+ROC-AUC,N/A,0.940524034553334,0.940524034553334,0.940524034553334
+Alert Volume,16972,9581,9581,9581
+Processing/Explanation Time (ms),216.22070000012167,N/A (no per-alert explanation),17.962170000828337,17.962170000828337
+Explanation Coverage,0% (no explanation),"0% (score only, no explanation)",100% (all anomalies explained),100% (all anomalies explained)
+ATT&CK Attribution Coverage,0% (no attribution),0% (no attribution),0% (no attribution),100% (all anomalies tagged)
