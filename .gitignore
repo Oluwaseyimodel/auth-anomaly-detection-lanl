@@ -4,3 +4,10 @@ __pycache__/
 .ipynb_checkpoints/
 .vscode/
 *.log
+venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.vscode/
+*.log
+raw_data/
